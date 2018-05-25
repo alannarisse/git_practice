@@ -1,2 +1,3 @@
 # git_practice
-practice git project for awsome students
+practice git project for awesome students
+Git is fun
