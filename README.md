@@ -1,5 +1,6 @@
 # git_practice
 
-practice git project for awsome students
-I like ice cream.
-I miss sugar.
+This repo is a practice git project for my awesome mentees to learn how clone, send pull requests, and to deal with merge conflicts.
+
+- I like ice cream.
+- I miss sugar.
