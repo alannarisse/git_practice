@@ -3,6 +3,7 @@
 This repo is a practice git project for my awesome mentees to learn how clone, send pull requests, and to deal with merge conflicts.
 
 - I really love ice cream.
+- I eat too many chips...
 - I miss New York?
 - I need peaches.
 
