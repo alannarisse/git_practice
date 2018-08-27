@@ -4,5 +4,8 @@ This repo is a practice git project for my awesome mentees to learn how clone, s
 
 - I really love ice cream.
 - I eat too many chips...
+- I miss New York?
 - I need peaches.
+
+
 
